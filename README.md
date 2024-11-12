@@ -13,6 +13,7 @@ Adaptable and a challenger senior frontend developer with more than 12 years of 
 </p>
 
 ###
+<a href="https://stackoverflow.com/users/3160597/azerafati"><img src="https://stackoverflow.com/users/flair/3160597.png?theme=dark" width="208" height="58" alt="profile for azerafati at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for azerafati at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="react logo"  />
@@ -37,3 +38,18 @@ Adaptable and a challenger senior frontend developer with more than 12 years of 
 <div align="center">
   <img src="https://raw.githubusercontent.com/azerafati/azerafati/output/github-contribution-grid-snake-dark.svg" alt="snake"  />
 </div>
+
+<h2>ℹ️ &nbsp;Github Info</h2>
+
+  <summary><b>⚡ Github Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=azerafati&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Alireza Zerafati" align = "center"/>
+
+
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=azerafati&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Alireza Zerafati" /></p>
+
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/TopCodeBeast"><img src="https://github-profile-trophy.vercel.app/?username=azerafati&margin-w=5&theme=radical" alt="Alireza Zerafati" /></a> </p>
+
+<br>
+
