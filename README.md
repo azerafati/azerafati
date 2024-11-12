@@ -12,20 +12,15 @@
 Adaptable and a challenger senior frontend developer with more than 12 years of experience in both backend and frontend, having a reputation for being very approachable, effective at onboarding and coaching juniors and for being the go-to person. I have been leading frontend teams lately. 
 </p>
 
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="Jest logo"  />
 </div>
 
@@ -40,5 +35,5 @@ Adaptable and a challenger senior frontend developer with more than 12 years of 
 ###
 
 <div align="center">
-  <img src="https://snake.svg" height="30" alt="snake"  />
+  <img src="https://raw.githubusercontent.com/azerafati/azerafati/output/github-contribution-grid-snake-dark.svg" alt="snake"  />
 </div>
